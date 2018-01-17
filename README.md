@@ -1,0 +1,1 @@
+This is the first app I made to learn Django.
